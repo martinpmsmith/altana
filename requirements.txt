@@ -1,0 +1,6 @@
+pandas~=1.4.2
+psutil~=5.9.0
+fastapi~=0.78.0
+SQLAlchemy~=1.4.36
+uvicorn==0.17.6
+click~=7.1.2
